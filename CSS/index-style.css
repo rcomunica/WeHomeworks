@@ -1,0 +1,17 @@
+*{
+    font-family: cursive;
+}
+
+
+/* TEXT */
+
+.title-container{
+	text-align: center;
+	position: relative;
+	bottom: 40px;
+	margin-bottom: 30px;
+}
+
+.title-terms{
+	margin-top: 25px;
+}

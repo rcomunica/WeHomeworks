@@ -1,0 +1,45 @@
+
+
+.nav-container{
+	position: absolute;
+	display: inline;
+}
+
+.nav {
+    background-color: #320f3a;
+    margin-top: -25px;
+    margin-left: -8px;
+    width: 1360px;
+    height: 50px;
+
+}
+
+.nav__li{
+	display: inline;
+	position: relative;
+	top: 3.3mm;
+	left: -6mm;
+}
+
+.nav__li a{
+	text-decoration: none;
+	color: #fff
+}
+
+.nav__li i {
+	color: #1dbd8d;
+	position: relative;
+	margin-left: 4mm;
+}
+
+.nav__li a:hover{
+	color: rgb(155, 155, 155);
+	transition: all .2s;
+}
+
+.nav__logo{
+	position: relative;
+	left: 85%;
+	top: 10%;
+	margin-top: -4px;
+}
